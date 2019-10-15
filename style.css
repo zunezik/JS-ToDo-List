@@ -15,6 +15,11 @@ li {
     align-items: center;
 }
 
+p:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+
 .done {
     text-decoration: line-through;
     color: grey;
